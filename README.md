@@ -1,16 +1,29 @@
-### Hi there 👋
+# 👋 Olá, eu sou o Samuel
 
-<!--
-**SamuelCastanheira/SamuelCastanheira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Ciência da Computação**, com foco em **desenvolvimento back-end**, mas com interesse real em entender o ecossistema completo de uma aplicação: front-end, mobile, banco de dados e arquitetura.
 
-Here are some ideas to get you started:
+Gosto de trabalhar com lógica, resolver problemas e entender o funcionamento das coisas além do “só funciona”. Tento sempre evoluir tecnicamente, mesmo quando o processo é mais lento do que eu gostaria.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tecnologias
+
+- C# / .NET  
+- Java / Spring  
+- SQL  
+- HTML & CSS  
+- React  
+- React Native (Expo)
+
+---
+
+## 📚 Atualmente estudando
+- React Native
+- Arquitetura de aplicações
+- Integração entre front-end e back-end
+- Boas práticas de desenvolvimento
+
+---
+
+## 🎯 Objetivo
+Me desenvolver como **desenvolvedor back-end**, com base sólida o suficiente para atuar também como **full-stack** quando necessário.
